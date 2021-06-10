@@ -1,0 +1,42 @@
+
+
+body{
+    background-color: black;
+}
+.header{
+    font-family:cursive;
+    text-align: center;
+    color: white;
+}
+div{
+    width: 80px;
+    height: 120px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+text
+}
+.box1{
+    margin-left: 342px;
+    background-color: gray;
+  
+}
+.box2{
+    
+
+    background-color: cornflowerblue;
+}
+.box3{
+    
+    background-color: red;
+}
+.box4{
+    background-color: yellowgreen;
+}
+
+.box5{
+    background-color: navajowhite;
+}
+
+
+

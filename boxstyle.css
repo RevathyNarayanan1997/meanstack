@@ -1,0 +1,19 @@
+div{
+    color: red;
+    width: 500px;
+    height: 100px;
+    border:1px solid black ;
+
+}
+.top{
+    margin-left:343px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: top 10px; 
+
+}
+.bottom{
+    margin-top:70% ;
+    margin-left: 343px;
+}

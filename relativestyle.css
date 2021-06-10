@@ -1,0 +1,204 @@
+body{
+    background-color: black;
+}
+.header{
+    text-align: center;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
+
+.row{
+    width: 700px;
+    height: 100px;
+    background-color:black;
+    
+    position:relative;
+    margin-top: 60px;
+    left: 25%;
+   
+   
+
+}
+.child1,.child2,.child3,.child4,.child5
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    left:20px;
+
+}
+.child1{
+    background-color: coral;
+    
+     
+}
+.child2{
+    background-color: crimson;
+    position: absolute;
+    left:110px;
+    top: 0;
+}
+
+
+.child3{
+background-color: darkmagenta;
+position: absolute;
+left: 220px;
+top:0;
+
+}
+.child4{
+    background-color:skyblue;
+position: absolute;
+left: 330px;
+top:0;
+}
+.child5{
+    background-color:teal;
+position: absolute;
+left: 440px;
+top:0;
+}
+
+
+
+
+.row1{
+    width: 800px;
+    height: 100px;
+    background-color:black;
+   
+    position:relative;
+    margin-top: 10px;
+    left: 17%;
+   
+
+}
+.child1,.child2,.child3,.child4,.child5,.child6,.child7
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    left:20px;
+
+}
+.child1{
+    background-color: coral;
+    
+     
+}
+.child2{
+    background-color: crimson;
+    position: absolute;
+    left:110px;
+    top: 0;
+}
+
+
+.child3{
+background-color: darkmagenta;
+position: absolute;
+left: 220px;
+top:0;
+
+}
+.child4{
+    background-color:skyblue;
+position: absolute;
+left: 330px;
+top:0;
+}
+.child5{
+    background-color: paleturquoise;
+position: absolute;
+left: 440px;
+top:0;
+}
+.child6{
+    background-color:gray;
+    position: absolute;
+    left: 550px;
+    top:0;
+}
+.child7{
+    background-color: darkmagenta;
+    position: absolute;
+    left: 660px;
+    top:0;
+}
+
+
+.row2{
+    width: 1000px;
+    height: 100px;
+    background-color:black;
+  
+    position:relative;
+    margin-top: 10px;
+   left: 10%;
+
+}
+.child1,.child2,.child3,.child4,.child5,.child6,.child7,.child8,.child9
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    left:20px;
+
+}
+.child1{
+    background-color: coral;
+    
+     
+}
+.child2{
+    background-color: crimson;
+    position: absolute;
+    left:110px;
+    top: 0;
+}
+
+
+.child3{
+background-color: blueviolet;
+position: absolute;
+left: 220px;
+top:0;
+
+}
+.child4{
+    background-color:skyblue;
+position: absolute;
+left: 330px;
+top:0;
+}
+.child5{
+    background-color:burlywood;
+position: absolute;
+left: 440px;
+top:0;
+}
+.child6{
+    background-color: darkmagenta;
+position: absolute;
+left: 550px;
+top:0;
+}
+.child7{
+    background-color: gray;
+position: absolute;
+left: 660px;
+top:0;
+}
+.child8{
+    background-color: yellowgreen;
+position: absolute;
+left: 770px;
+top:0;
+}
+.child9{
+    background-color: rgb(21, 0, 139);
+position: absolute;
+left: 880px;
+top:0;
+}

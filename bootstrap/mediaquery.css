@@ -1,0 +1,30 @@
+.row{
+    width: 100%;
+    height: 500px;
+    background:red;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.col{
+    width: 30%;
+    height: 150px;
+
+}
+.col:nth-child(1){
+    background: chartreuse;
+}
+.col:nth-child(2){
+    background: coral;
+}
+.col:nth-child(3)
+{
+    background: darkblue;
+}
+@media(max-width:500px){
+    .row{
+        flex-direction: column;
+align-items: flex-end;
+justify-content: space-evenly;
+    }
+}
