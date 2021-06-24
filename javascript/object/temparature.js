@@ -15,9 +15,14 @@ var temparature=[
 ]
 var weather={}
 for(let data of temparature){
+    let district=data["district"];
+    let temp=data["temprature"];
+    if(district in wheather){
+   
+        let old_Temp=wheather[data[temp]]
+    }
 
-if (data["district"] in weather){
-    let old_Temp=weather[data[temp]]
+   
 }
 
 else{
@@ -27,3 +32,4 @@ else{
 console.log(wheather);
 
 
+//sort weather according to temparature in descending order
